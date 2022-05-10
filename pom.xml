@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url> http://13.127.81.94:8081/repository/latestone-snapshot/</url>
+	      <url> http://13.127.81.94:8081/repository/latestonesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
