@@ -92,13 +92,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.59.136:8081/repository/latestone-release/ </url>
+	      <url>http://13.126.48.153:8081/repository/new-rel/ </url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.59.136:8081/repository/latestone-snap/</url>
+	      <url>http://13.126.48.153:8081/repository/new-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
